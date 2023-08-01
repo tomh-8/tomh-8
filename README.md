@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tomh-8
-- 👀 I’m interested in crypto and code
+- 👀 I’m interested in 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
